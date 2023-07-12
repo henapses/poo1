@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../../../Downloads/corrig-ssass1"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Site_Stef"
+  }
+}
